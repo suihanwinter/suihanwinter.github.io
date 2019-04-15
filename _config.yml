@@ -1,12 +1,11 @@
-# Basic
 title: 岁寒
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: suihanwinter
 # 头像里面的描述
-avatarDesc: 所见非我|一介俗人
-url: "http://suihanwinter.io"
+avatarDesc: 所见非我 / 一介俗人
+url: "http://suihanwinter.github.io"
 
 # Comment
 comment:
@@ -18,17 +17,17 @@ comment:
 social:
     weibo: 岁寒不见了 
     github: suihanwinter
-     zhihu: 岁寒
+    # zhihu: panpanleopard
     # juejin: xxx
-    #jianshu: 2ada30d8d0f7
+    jianshu: 2ada30d8d0f7
     # twitter: 
     mail: zyszhl@hotmail.com
 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-#baidu:
-    #id: xxxx  
+baidu:
+    id: xxxx  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
@@ -71,5 +70,3 @@ nav:
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
-
-
