@@ -1,3 +1,14 @@
+---
+layout: post
+title: "XPATH和beautifulsoup"
+date: 2020-02-04 
+description: "刷题"
+tag: python 
+---   
+
+
+
+
 # [xpath的几个常用规则]
 
 我们在定位页面元素的时候呢，经常使用到xpath。xpah定位元素，我们可以使用开发者工具，然后右键选取元素的xpath ,但是这种方式得到的xpath是绝对路径，如果页面元素发生变动，经常会出现定位不到的情况，所以，我们有必要学习一下，手动定位页面元素，既相对定位的写法。
